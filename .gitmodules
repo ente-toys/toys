@@ -1,0 +1,3 @@
+[submodule "duckydash"]
+	path = duckydash
+	url = https://github.com/ente-toys/duckydash
